@@ -19,19 +19,6 @@ Variabler inkluderar bland annat:
 
 Datasetet hämtades ursprungligen via seaborn och sparades därefter lokalt som CSV för reproducerbar analys.
 
-## Projektstruktur
-
-.
-├── data
-│   ├── processed
-│   │   ├── penguins_clean.csv
-│   ├── raw
-│   │   ├── penguins_raw.csv
-├── notebook.ipynb
-├── pyproject.toml
-├── README.md
-├── uv.lock
-
 
 
 ## Körning
