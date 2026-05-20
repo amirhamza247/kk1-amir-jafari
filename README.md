@@ -22,13 +22,15 @@ Datasetet hämtades ursprungligen via seaborn och sparades därefter lokalt som 
 ## Projektstruktur
 
 .
+├── data
+│   ├── processed
+│   │   ├── penguins_clean.csv
+│   ├── raw
+│   │   ├── penguins_raw.csv
 ├── notebook.ipynb
+├── pyproject.toml
 ├── README.md
-└── data
-    ├── raw
-    │   └── penguins_raw.csv
-    └── processed
-        └── penguins_clean.csv
+├── uv.lock
 
 
 
